@@ -6,12 +6,13 @@ Key contribution and inspiration for this was from user AI_RPI_SPY on Redit, the
 ## What EXACTLY is this:
 
 ## How do I use it?
-Within the file are setting files for all of eSun's filaments, which can be copied into the printers configuration folder. There are 3 file types filament / process/ printer.
+The source files in this repo contains 3 file types which can be copied into the printers configuration folder:
+- filament
+- process
+- printer
 
-The bambu studio config settings location is :
-
+The bambu studio config settings location is:
 Mac: /Users/(your username)/Library/Application Support/BambuStudio/User
-
 Windows :C:\Users\XXXX\AppData\Roaming\BambuStudio\user
 
 Inside the user folder are two folder one Default the other is the ID of your printer.
